@@ -1,0 +1,12 @@
+build/
+.vscode/
+.idea/
+*.user
+*.obj
+*.o
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tmp
+*.ini.user
